@@ -1,9 +1,4 @@
 
-текст ниже.
-3. Нажмите **Commit changes**.
-
-```js
-'use strict';
 const http = require('node:http');
 const { randomUUID } = require('node:crypto');
 const WebSocket = require('ws');
